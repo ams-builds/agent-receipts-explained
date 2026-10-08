@@ -1,6 +1,6 @@
 # Jargon Buster
 
-Plain-English explanations of the technical words in this project. The README does not use these words when it can. This file gives the exact words for readers who want them.
+Simple meanings of the technical words in this project. The README does not use these words when it can. This file gives the exact words for readers who want them.
 
 **Action type**
 A name for the kind of action, for example `filesystem.file.delete`. The Agent Receipts taxonomy gives each action type a default risk level.

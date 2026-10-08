@@ -112,4 +112,4 @@ Changes from the source:
 
 ---
 
-*New words? The [Jargon Buster](JARGON.md) gives plain-English explanations of receipt, chain, principal, issuer, anchor checkpoint, tail truncation, and more.*
+*New words? The [Jargon Buster](JARGON.md) gives simple explanations of receipt, chain, principal, issuer, anchor checkpoint, tail truncation, and more.*
