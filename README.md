@@ -2,11 +2,11 @@
 
 ## What is it?
 
-This repository is a plain-language guide and an agent skill. Both are based on Agent Receipts, an open protocol for audit trails of AI agent actions. Agent Receipts tells you how to make a signed record, called a receipt, for each action of an agent. It also tells you how to link the receipts in a chain, and how to verify that nobody changed them.
+This repository is a simple guide and a ready-made skill for your AI agent. Both are based on Agent Receipts, an open protocol for audit trails of AI agent actions. Agent Receipts tells you how to make a signed record, called a receipt, for each action of an agent. It also tells you how to link the receipts in a chain, and how to verify that nobody changed them.
 
 ![Your agent does an action. It makes a signed receipt for that one action. Each receipt holds the hash of the receipt before it, so the receipts make a chain. Anyone can verify the chain. If someone changes or deletes a receipt, the chain breaks and the check fails.](assets/receipt-for-every-action.svg)
 
-*Do you want the technical words in plain English? Refer to the [Jargon Buster](JARGON.md).*
+*Do you want simple meanings for the technical words? Refer to the [Jargon Buster](JARGON.md).*
 
 ## What problem does it solve?
 
@@ -99,7 +99,7 @@ This guide is based on [Agent Receipts](https://github.com/agent-receipts/obsign
 
 This repository uses the Apache License 2.0 and keeps the MIT notice for the specification. Refer to [LICENSE](LICENSE) and [NOTICE](NOTICE).
 
-This is an independent plain-language guide. It is not an official part of the source project. For the full rules, use the source specification.
+This is an independent guide. It is not an official part of the source project. For the full rules, use the source specification.
 
 Changes from the source:
 
